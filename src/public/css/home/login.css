@@ -1,0 +1,22 @@
+* {
+    margin:0;
+    padding:0;
+}
+
+
+body{
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    min-height: 100vh;
+    background: rgb(192, 162, 162);
+    
+}
+.login-form input{ 
+    border: 1px red solid;
+}
+.login-form #button {
+    display: block;
+    background: blue;
+    border: 1px solid red;
+}
